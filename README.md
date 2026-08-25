@@ -54,7 +54,8 @@ This course identifies problems in smart cities and validates service ideas thro
 
 ### Prerequisites
 
-TBA
+- Python Programming
+- Git & GitHub
 
 ### Schedule
 
