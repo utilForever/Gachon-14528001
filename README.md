@@ -76,9 +76,13 @@ This course identifies problems in smart cities and validates service ideas thro
 - Week 15: Final Product Integration, Business Model Refinement, and Pitch Preparation
 - Week 16: Final Project Presentation, Service Demonstration, and Report (No lecture)
 
-### Tools
+### LLM (Large Language Models) policy
 
-TBA
+- You are free to use LLMs while studying and working on assignments.
+- I will review the reports, proposals, presentations, and Q&A sessions you submit to assess your thought process behind your designs and your understanding of the code.
+- Do not assume that an LLM will always provide the correct answer.
+- You must take the lead in your thinking and use the LLM as a tool.
+- Do not offload all the thinking you should be doing onto the LLM.
 
 ## Grading
 
