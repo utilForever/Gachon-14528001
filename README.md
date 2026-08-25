@@ -59,7 +59,22 @@ This course identifies problems in smart cities and validates service ideas thro
 
 ### Schedule
 
-TBA
+- Week 01: Introduction
+- Week 02: Urban Problem Discovery, Stakeholder Analysis, and Web Service Fundamentals
+- Week 03: User Interviews, Problem Validation, and Django Fundamentals
+- Week 04: Value Proposition, Competitive Analysis, and Django Templates
+- Week 05: MVP Planning, User Stories, and Database Modeling
+- Week 06: CRUD Operations, Form Processing, and Product Backlog Management
+- Week 07: User Authentication, Authorization, and Initial Prototype Integration
+- Week 08: Midterm Project Presentation (No lecture)
+- Week 09: Public Urban Data, Maps, and External API Integration
+- Week 10: Core Feature Development and End-to-End User Journey
+- Week 11: Automated Testing, Code Review, Continuous Integration, and Refactoring
+- Week 12: Cloud Deployment and Public Beta Release
+- Week 13: Security, Privacy, Logging, Monitoring, and Service Operations
+- Week 14: User Testing, Product Metrics, and Evidence-Based Improvement
+- Week 15: Final Product Integration, Business Model Refinement, and Pitch Preparation
+- Week 16: Final Project Presentation, Service Demonstration, and Report (No lecture)
 
 ### Tools
 
