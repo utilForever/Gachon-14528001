@@ -64,6 +64,7 @@ This course identifies problems in smart cities and validates service ideas thro
 - Week 02: Urban Problem Discovery, Stakeholder Analysis, and Web Service Fundamentals
   - [Lecture Note](./1%20-%20Lecture/260911%20가천대학교%20-%20창업프로젝트%20-%20Lecture%202.pdf)
 - Week 03: User Interviews, Problem Validation, and Django Fundamentals
+  - [Lecture Note](./1%20-%20Lecture/260918%20가천대학교%20-%20창업프로젝트%20-%20Lecture%203.pdf)
 - Week 04: Value Proposition, Competitive Analysis, and Django Templates
 - Week 05: MVP Planning, User Stories, and Database Modeling
 - Week 06: CRUD Operations, Form Processing, and Product Backlog Management
