@@ -71,7 +71,8 @@ This course identifies problems in smart cities and validates service ideas thro
   - [Lecture Note](./1%20-%20Lecture/261009%20가천대학교%20-%20창업프로젝트%20-%20Lecture%205.pdf)
 - Week 06: Pricing and Startup Costs
   - [Lecture Note](./1%20-%20Lecture/261016%20가천대학교%20-%20창업프로젝트%20-%20Lecture%206.pdf)
-- Week 07: User Authentication, Authorization, and Initial Prototype Integration
+- Week 07: Prototype and Pilot Operation
+  - [Lecture Note](./1%20-%20Lecture/261023%20가천대학교%20-%20창업프로젝트%20-%20Lecture%207.pdf)
 - Week 08: Midterm Project Presentation (No lecture)
 - Week 09: Public Urban Data, Maps, and External API Integration
 - Week 10: Core Feature Development and End-to-End User Journey
