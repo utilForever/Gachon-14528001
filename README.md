@@ -73,9 +73,10 @@ This course identifies problems in smart cities and validates service ideas thro
   - [Lecture Note](./1%20-%20Lecture/261016%20가천대학교%20-%20창업프로젝트%20-%20Lecture%206.pdf)
 - Week 07: Prototype and Pilot Operation
   - [Lecture Note](./1%20-%20Lecture/261023%20가천대학교%20-%20창업프로젝트%20-%20Lecture%207.pdf)
-- Week 08: Midterm Project Presentation (No lecture)
-- Week 09: Public Urban Data, Maps, and External API Integration
-- Week 10: Core Feature Development and End-to-End User Journey
+- Week 08: Custom Feedback and Service Improvement
+  - [Lecture Note](./1%20-%20Lecture/261030%20가천대학교%20-%20창업프로젝트%20-%20Lecture%208.pdf)
+- Week 09: Core Feature Development and End-to-End User Journey
+- Week 10: Midterm Project Presentation (No lecture)
 - Week 11: Automated Testing, Code Review, Continuous Integration, and Refactoring
 - Week 12: Cloud Deployment and Public Beta Release
 - Week 13: Security, Privacy, Logging, Monitoring, and Service Operations
